@@ -1,0 +1,7 @@
+{
+  "name": "nativefied",
+  "private": true,
+  "dependencies": {
+    "nativefier": "^7.0.1"
+  }
+}
